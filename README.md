@@ -25,6 +25,7 @@ weather-chatbot/
 ├─ README.md
 └─ notebooks/
    └─ chatbot_test.ipynb
+```
 
 ## 주요 함수
 
